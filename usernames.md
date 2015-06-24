@@ -7,3 +7,5 @@
 * 'dan' should be included somewhere in the name, in this order: 'd' followed by 'a' followed by 'n'.
 
 Add your usernames below:
+
+jerkstore-dan
