@@ -9,3 +9,11 @@
 Add your usernames below:
 
 jerkstore-dan
+blackbelt-7-dan
+did-dun-dan
+dun-dun-dan
+definitely-not-dan
+console.dan
+spinning-in-chair-dan
+in-the-future-dan
+watches-boats-dan
