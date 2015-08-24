@@ -11,7 +11,7 @@ Add your usernames below:
 * jerkstore-dan
 * blackbelt-7-dan
 * did-dun-dan
-* dun-dun-dan
+* ~~dun-dun-dan~~ [8/24/15]
 * definitely-not-dan
 * console.dan
 * spinning-in-chair-dan
