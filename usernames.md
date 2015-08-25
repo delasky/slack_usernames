@@ -13,7 +13,7 @@ Add your usernames below:
 * did-dun-dan
 * ~~dun-dun-dan~~ [8/24/15]
 * definitely-not-dan
-* console.dan
+* ~~console.dan~~ [8/25/15]
 * spinning-in-chair-dan
 * in-the-future-dan
 * watches-boats-dan
