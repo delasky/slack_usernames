@@ -14,6 +14,6 @@ Add your usernames below:
 * ~~dun-dun-dan~~ [8/24/15]
 * definitely-not-dan
 * ~~console.dan~~ [8/25/15]
-* spinning-in-chair-dan
+* ~~spinning-in-chair-dan~~ [8/27/15]
 * in-the-future-dan
 * watches-boats-dan
